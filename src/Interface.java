@@ -13,6 +13,7 @@ public class Interface implements WaterBottleInterface  {
     public static void main(String[] args){
         System.out.println(color);
 
+        //Instans af klassen Interface.
         Interface in = new Interface();
         in.fillup();
 
