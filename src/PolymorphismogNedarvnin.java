@@ -1,3 +1,5 @@
+import java.lang.Override;
+
 
 //vi laver en superklasse.
 class bird{

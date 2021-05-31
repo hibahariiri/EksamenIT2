@@ -10,7 +10,6 @@ public class ImparativDeklarativ {
 
         if (længde > 0) {
             navn2 = navn;
-
         }
 
         return navn2;
